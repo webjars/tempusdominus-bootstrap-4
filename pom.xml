@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>tempusdominus-bootstrap-4</artifactId>
-    <version>5.1.3-SNAPSHOT</version>
+    <version>5.39.0-SNAPSHOT</version>
     <name>Tempus Dominus Bootstrap 4</name>
     <description>WebJar for Tempus Dominus Bootstrap 4</description>
     <url>http://webjars.org</url>
